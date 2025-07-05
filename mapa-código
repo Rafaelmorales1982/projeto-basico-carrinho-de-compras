@@ -1,0 +1,12 @@
+## 1° item.js criar item com subtotal certo
+- Linha 7 item.js = function createItem 
+- exportar item (função createItem)
+
+## 2° index.js importar item.js 
+- Criando const item1 e item2 para enviar por parâmetros  nome, preço e quantidade e depois imprimindo na tela
+- Lembrando de utilizar await para esperar a function terminar processo pois a função esta com async 
+
+## 3° Implementar as funções do cart.js
+- Linha 11 function addItem adicionar item no carrinho push();
+
+- Linha 32 função calculateTotal()
